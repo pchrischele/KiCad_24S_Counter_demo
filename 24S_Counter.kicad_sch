@@ -3927,7 +3927,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:slide_switch_2.54mm"
 			(at 187.96 83.82 0)
 			(effects
 				(font
@@ -4028,7 +4028,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "H1")
 					(unit 1)
@@ -4064,7 +4064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:74LS48"
 			(at 114.3 106.68 0)
 			(effects
 				(font
@@ -4482,7 +4482,7 @@
 			(uuid "513690f0-2360-4f2d-aa1f-c2ee44096bb5")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "#PWR07")
 					(unit 1)
@@ -4960,7 +4960,7 @@
 			(uuid "acb9a6d2-2e86-4ff3-bfb1-798db1c1c423")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "R16")
 					(unit 1)
@@ -4994,7 +4994,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:tact_switch_5mm"
 			(at 190.5 35.56 0)
 			(effects
 				(font
@@ -5028,7 +5028,7 @@
 			(uuid "f7b58b78-b599-4cf7-b8c6-20fd43d012ec")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "SW2")
 					(unit 1)
@@ -5064,7 +5064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:74LS192"
 			(at 83.82 48.26 0)
 			(effects
 				(font
@@ -5140,7 +5140,7 @@
 			(uuid "aa51104f-6cda-465b-9793-1cb17177d81f")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "U1")
 					(unit 1)
@@ -5208,7 +5208,7 @@
 			(uuid "d48bba47-d494-4c6b-a4c2-926a2c7a981a")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "J2")
 					(unit 1)
@@ -5380,7 +5380,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:74LS48"
 			(at 114.3 45.72 0)
 			(effects
 				(font
@@ -5456,7 +5456,7 @@
 			(uuid "bc054fbd-a0be-45ef-8228-00b27a8ee206")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "U3")
 					(unit 1)
@@ -5755,7 +5755,7 @@
 			(uuid "2a02c16a-8e39-4f96-9d3f-a9bacc50f51b")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "U5")
 					(unit 1)
@@ -6099,7 +6099,7 @@
 			(uuid "f069315b-af7a-47c0-b7b0-c2f7dace4207")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "R1")
 					(unit 1)
@@ -6169,7 +6169,7 @@
 			(uuid "acb9a6d2-2e86-4ff3-bfb1-798db1c1c424")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "R15")
 					(unit 1)
@@ -6299,7 +6299,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "H3")
 					(unit 1)
@@ -6335,7 +6335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:Terminal_Block_5mm"
 			(at 196.85 113.03 0)
 			(effects
 				(font
@@ -6369,7 +6369,7 @@
 			(uuid "ca8dc582-e383-44f0-87cd-78dbc06dcb26")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "J1")
 					(unit 1)
@@ -6833,7 +6833,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "H2")
 					(unit 1)
@@ -6899,7 +6899,7 @@
 			(uuid "54d1fab7-586a-4bbc-b657-5c6835bddac7")
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "#FLG01")
 					(unit 1)
@@ -6935,7 +6935,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:74LS192"
 			(at 83.82 109.22 0)
 			(effects
 				(font
@@ -7238,7 +7238,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "24S_Counter"
 				(path "/93a754ca-f3ab-4dbe-86d4-a47d0c0a2d69"
 					(reference "H4")
 					(unit 1)
